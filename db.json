@@ -3,7 +3,7 @@
     { "id": 1, "title": "aaa" },
     { "id": 2, "title": "bbb" },
     { "id": 3, "title": "ccc" },
-    { "id": 4, "title": "ccc"}
+    { "id": 4, "title": "ccc", "b":  "j"}
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
