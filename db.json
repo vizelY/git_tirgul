@@ -2,7 +2,8 @@
   "posts": [
     { "id": 1, "title": "aa" },
     { "id": 2, "title": "bb" },
-    { "id": 3, "title": "cc" }
+    { "id": 3, "title": "cc" },
+    { "id": 4, "title": "ee" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
