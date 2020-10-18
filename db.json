@@ -1,7 +1,7 @@
 {
   "posts": [
-   { "id": 1, "userid": 1, "massege": "sadfgasd f", createdAt:"2019-07-09T10:33:50.748Z", updatedAt:"2019-07-09T10:33:50.748Z" },
-   { "id": 2, "userid": 2, "massege": "sadfgasd f", createdAt:"2019-07-09T10:33:50.748Z", updatedAt:"2019-07-09T10:33:50.748Z" }
+   { "id": 1, "userid": 1, "massege": "sadfgasd f", "createdAt":"2019-07-09T10:33:50.748Z", "updatedAt":"2019-07-09T10:33:50.748Z" },
+   { "id": 2, "userid": 2, "massege": "sadfgasd f", "createdAt":"2019-07-09T10:33:50.748Z", "updatedAt":"2019-07-09T10:33:50.748Z" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
